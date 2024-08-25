@@ -1,3 +1,3 @@
-[Python]
-Georgia State University, Atlanta, USA
+[Python].
+Georgia State University, Atlanta, USA.
 https://csds.gsu.edu/
